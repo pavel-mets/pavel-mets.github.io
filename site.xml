@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/ru.ntik.platforma.feature_1.0.15.jar" id="ru.ntik.platforma.feature" version="1.0.15"/>
+</site>
